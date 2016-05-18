@@ -3,4 +3,5 @@ data/sample_submission.csv
 bin/
 include/
 lib/
+share/
 pip-selfcheck.json
