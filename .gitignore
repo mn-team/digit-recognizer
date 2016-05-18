@@ -1,1 +1,6 @@
 data/sample_submission.csv
+.Python
+bin/
+include/
+lib/
+pip-selfcheck.json
